@@ -1,4 +1,4 @@
-Repository of notebooks and data to accompany the Cornell Virtual Workshop (CVW) tutorial on <a href="https://cvw.cac.cornell.edu/python-data-science">Python for Data Science</a>."
+Repository of notebooks and data to accompany the Cornell Virtual Workshop (CVW) tutorial on <a href="https://cvw.cac.cornell.edu/python-data-science">Python for Data Science</a>.
 
 Twitter data sets
 
